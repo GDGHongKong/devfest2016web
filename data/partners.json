@@ -15,17 +15,6 @@
     ]
   },
   {
-    "title": "supporting-organization",
-    "logos": [
-      {
-        "name": "Department of Computer Science, City University of Hong Kong",
-        "url": "http://www.cs.cityu.edu.hk/",
-        "logoUrl": "../images/logos/cityuCS.png",
-        "width": 250
-      }
-    ]
-  },
-  {
     "title": "sponsor",
     "logos": [
       {
@@ -33,6 +22,17 @@
         "url": "https://www.asus.com/hk/",
         "logoUrl": "../images/logos/asus-logo-black.png",
         "width": 200
+      }
+    ]
+  },
+  {
+    "title": "supporting-organization",
+    "logos": [
+      {
+        "name": "Department of Computer Science, City University of Hong Kong",
+        "url": "http://www.cs.cityu.edu.hk/",
+        "logoUrl": "../images/logos/cityuCS.png",
+        "width": 250
       }
     ]
   },
