@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Core Team",
+    "members": [
+      {
+        "name": "Dennis Wong",
+        "photoUrl": "/images/people/gdg_dennis.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/110955500947853903824/",
+            "name": "Google+"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/dennis-wong-35093655",
+            "name": "Linkedin"
+          }
+        ],
+        "title": "Co-founder of GDG Hong Kong"
+      },
+      {
+        "name": "Homing Tam",
+        "photoUrl": "/images/people/gdg_homing.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+HomingTam",
+            "name": "Google+"
+          },
+          {
+            "icon": "website",
+            "link": "https://tamhoming.wordpress.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Team member"
+      },
+      {
+        "name": "Fung Lam",
+        "photoUrl": "/images/people/gdg_fung.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/lamchofung",
+            "name": "Linkedin"
+          },
+		  {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+FungLAM",
+            "name": "Google+"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.androidfung.com",
+            "name": "Blog"
+          }
+        ],
+        "title": "Team member"
+      },
+      {
+        "name": "Peter Lo",
+        "photoUrl": "/images/people/gdg_peter.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/petercslo",
+            "name": "Linkedin"
+          },{
+            "icon": "gplus",
+            "link": "https://plus.google.com/+PeterLoCS",
+            "name": "Google+"
+          }
+        ],
+        "title": "Team member"
+      },
+      {
+        "name": "Herbert Man",
+        "photoUrl": "/images/people/gdg_herbert.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/manhoyin",
+            "name": "Linkedin"
+          },
+		  {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+HerbertMan",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/HerbertSir",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Team member"
+      },
+      {
+        "name": "Alex Fok",
+        "photoUrl": "/images/people/gdg_alex.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/alex-fok-a721852b",
+            "name": "Linkedin"
+          },
+		  {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+AlexFokHK",
+            "name": "Google+"
+          }
+        ],
+        "title": "Team member"
+      },
+      {
+        "name": "Tony Li",
+        "photoUrl": "/images/people/gdg_tonyli.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/tonylitf",
+            "name": "Linkedin"
+          },
+		  {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+TonyLiTF",
+            "name": "Google+"
+          }
+        ],
+        "title": "Team member"
+      }
+    ]
+  }
+]

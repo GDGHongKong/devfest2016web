@@ -1,0 +1,234 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Kazunori Sato",
+        "title": "Staff Developer Advocate",
+        "company": "Google",
+        "companyLogo": "images/logos/google.svg",
+        "country": "Japan",
+        "photoUrl": "images/people/KazunoriSato.jpg",
+        "shortBio": "Kaz Sato is Staff Developer Advocate at Cloud Platform team...",
+        "bio": "Kaz Sato is Staff Developer Advocate at Cloud Platform team, Google Inc. He leads the developer advocacy team for Machine Learning and Data Analytics products, such as TensorFlow, Cloud ML, and BigQuery. Speaking at major events including Google I/O 2016, Hadoop Summit 2016, Strata+Hadoop World 2016 San Jose and NYC, ODSC East/West 2016, Google Next 2015 NYC and Tel Aviv. Kaz also has been leading and supporting developer communities for Google Cloud for over 7 years. He is also interested in hardwares and IoT, and has been hosting FPGA meetups since 2013.",
+        "tags": [
+            "Cloud",
+            "Machine Learning",
+            "Data Analytics"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kazunori279"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/kazunori_279"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/kazunori279/"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+KazunoriSato/"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Maru Maruyama",
+        "title": "Developer Advocate",
+        "company": "Google",
+        "companyLogo": "images/logos/google.svg",
+        "country": "Japan",
+        "photoUrl": "images/people/MaruMaruyama.jpg",
+        "shortBio": "Tentative",
+        "bio": "Tentative",
+        "tags": [
+            "Map"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/tom820803"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/103113398034740626174"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Kinni Mew",
+        "title": "Co-founder",
+        "company": "Mindlayer Limited",
+        "companyLogo": "images/logos/mindlayer_logo.png",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/KinniMew.jpg",
+        "shortBio": "Mr. Kinni Mew is the co-founder of Mindlayer.",
+        "bio": "Mr. Kinni Mew is the co-founder of Mindlayer. As a young company, its innovative projects have received fundings like Technology Start-up Support Scheme for Universities (TSSSU) 2016/17, Cyberport Incubation Programme 2016/17 and DBS Accelerator Program2016. In 2015, Mr. Kinni Mew was nominated by CityU to join the Cyberport University Partnership Programme (CUPP). In collaboration with Stanford Graduate School of Business, Mr. Kinni Mew went to Silicon Valley for a one-week entrepreneurship boot camp and visited Google, Facebook Headquarters and other companies at Silicon Valley. Mr. Mew was then awarded with cash prize of HK$100,000 in the ‘Global Entrepreneurship week China-Hong Kong’.",
+        "tags": [
+            "Web and Mobile"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://mindlayer.io/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/kinnimew"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "David Ng",
+        "title": "Product Manager",
+        "company": "OurSky",
+        "companyLogo": "images/logos/oursky.png",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/DavidNg.jpg",
+        "shortBio": "Hi, I am a Software Developer....",
+        "bio": "Hi, I am a Software Developer.",
+        "tags": [
+            "Web and Mobile"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+             {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://www.davidng.hk"
+            },
+			{
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/david-ng-66885461"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "GCPUGHK",
+        "title": "GCPUGHK",
+        "company": "GCPUGHK",
+        "companyLogo": "images/logos/GCPUGHK.png",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/GCPUGHK.png",
+        "shortBio": "Google Cloud Platform Hong Kong User Group...",
+        "bio": "Google Cloud Platform Hong Kong User Group",
+        "tags": [
+            "Cloud"
+        ],
+        "badges": [
+            {
+                "name": "GCPUG",
+                "description": "Google Cloud Platform Hong Kong User Group",
+                "link": "http://www.gcpug.hk/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://www.gcpug.hk/"
+            }
+        ]
+    },
+	    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Fung Lam",
+        "title": "Organizer",
+        "company": "GDG Hong Kong",
+        "companyLogo": "images/logos/gdg-logo.svg",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/gdg_fung.jpg",
+        "shortBio": "Fung is an Android Developer....",
+        "bio": "Fung is an Android Developer, focusing on Cloud and Mobile. Before that, he was a full-stack DevOpt on Java, on Linux, and on MySQL. Fung is a lead organizer in Google Developer Groups (GDG). He is also speakers in Tech Talks and Code-Labs in different GDG events in different cities.",
+        "tags": [
+            "Android",
+			"Web and Mobile"
+        ],
+        "badges": [
+            {
+                "name": "GDG",
+                "description": "Google Developer Group Hong Kong",
+                "link": "http://www.gdghk.org/"
+            }
+        ],
+        "socials": [
+		  {
+			"icon": "linkedin",
+			"link": "https://www.linkedin.com/in/lamchofung",
+			"name": "Linkedin"
+		  },
+		  {
+			"icon": "gplus",
+			"link": "https://plus.google.com/+FungLAM",
+			"name": "Google+"
+		  },
+		  {
+			"icon": "website",
+			"link": "http://www.androidfung.com",
+			"name": "Blog"
+		  }
+        ]
+    },
+	    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Tony Chan",
+        "title": "Senior Developer Advocate",
+        "company": "Google",
+        "companyLogo": "images/logos/google.svg",
+        "country": "USA",
+        "photoUrl": "images/people/TonyChan.jpg",
+        "shortBio": "Tony is a developer advocate for Android....",
+        "bio": "Tony is a developer advocate for Android. He joined Google in 2007 and has been helping developers with various Google products/APIs like Google Checkout, Apps and Android ever since. Prior joining Google, Tony was a senior application developer at the University of Michigan and a management consultant at PricewaterhouseCooper. He received his M.B.A and M.S.E. degrees from University of Michigan, Ann Arbor.",
+        "tags": [
+            "Android",
+            "AR and VR"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+		  {
+			"icon": "linkedin",
+			"link": "https://www.linkedin.com/in/tonychan",
+			"name": "Linkedin"
+		  },
+		  {
+			"icon": "gplus",
+			"link": "https://plus.google.com/+TonyHChan/",
+			"name": "Google+"
+		  }
+        ]
+    }
+}

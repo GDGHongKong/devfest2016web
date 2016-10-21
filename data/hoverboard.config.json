@@ -1,0 +1,198 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "http://devfest.gdghk.org/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "中文",
+      "key": "hk"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+		{
+          "text": "google-developer-hk",
+          "url": "https://www.gdghk.org/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "http://devfest2015.gdghk.org/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "organizer@hk-gtug.org",
+        "url": "mailto:organizer@hk-gtug.org"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://www.eventbrite.com/e/gdg-devfest-season-2016-hong-kong-registration-28326239545",
+    "elements": [
+      {
+        "name": "free-ticket",
+        "price": 0,
+        "currency": "$",
+        "starts": "free-ticket-starts",
+        "ends": "free-ticket-ends",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 300,
+      "caption": "attendees"
+    },
+    {
+      "counter": 1,
+      "caption": "days"
+    },
+    {
+      "counter": 11,
+      "caption": "sessions"
+    },
+    {
+      "counter": 3,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "dfhk",
+  "social": [
+    {
+      "name": "gplus",
+      "nickname": "101989816978489369807",
+      "url": "https://plus.google.com/101989816978489369807/"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGHongKong",
+      "url": "https://www.facebook.com/GDGHongKong/"
+    }
+  ],
+  "tweetsSource": "data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "https://www.facebook.com/City-University-of-Hong-Kong-182053561695/",
+    "pointer": {
+      "latitude": 22.337181,
+      "longitude": 114.172737,
+      "zoom": 16
+    },
+    "mapCenter": {
+      "latitude": 22.337181,
+      "longitude": 114.172737
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
+  }
+}
