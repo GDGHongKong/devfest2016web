@@ -133,7 +133,7 @@
     },
     "5": {
         "id": 5,
-        "featured": true,
+        "featured": false,
         "name": "GCPUGHK",
         "title": "GCPUGHK",
         "company": "GCPUGHK",
@@ -173,7 +173,7 @@
         "bio": "Fung is an Android Developer, focusing on Cloud and Mobile. Before that, he was a full-stack DevOpt on Java, on Linux, and on MySQL. Fung is a lead organizer in Google Developer Groups (GDG). He is also speakers in Tech Talks and Code-Labs in different GDG events in different cities.",
         "tags": [
             "Android",
-			"Web and Mobile"
+            "PWA", "Firebase", "GCP", "Material Design"
         ],
         "badges": [
             {
@@ -204,16 +204,15 @@
         "id": 7,
         "featured": true,
         "name": "Tony Chan",
-        "title": "Senior Developer Advocate",
+        "title": "Head of Developer Platform Partnership for APAC (excl. JP/KR)",
         "company": "Google",
         "companyLogo": "images/logos/google.svg",
-        "country": "USA",
+        "country": "Hong Kong",
         "photoUrl": "images/people/TonyChan.jpg",
-        "shortBio": "Tony is a developer advocate for Android....",
-        "bio": "Tony is a developer advocate for Android. He joined Google in 2007 and has been helping developers with various Google products/APIs like Google Checkout, Apps and Android ever since. Prior joining Google, Tony was a senior application developer at the University of Michigan and a management consultant at PricewaterhouseCooper. He received his M.B.A and M.S.E. degrees from University of Michigan, Ann Arbor.",
+        "shortBio": "Tony is the Head of Developer Platform Partnership for APAC (excl. JP/KR)...",
+        "bio": "Tony is the Head of Developer Platform Partnership for APAC (excl. JP/KR).  He joined Google in 2007 and has been empowering developers, from startups to fortune 500 companies, to build high quality and innovative integrations with various Google technologies like Daydream/Tango, Firebase, Google Play Services on open platforms like Android and the web.  Prior joining Google, Tony was a senior application developer at the University of Michigan and a management consultant at PricewaterhouseCooper.  He received his M.S.E. and M.B.A. degrees from University of Michigan, Ann Arbor.",
         "tags": [
-            "Android",
-            "AR and VR"
+            "Android", "Firebase", "Tango", "Daydream"
         ],
         "badges": [
 
