@@ -22,8 +22,8 @@
   },
   "1301": {
     "id": 1301,
-    "title": "Tango",
-    "description": "Tango",
+    "title": "An Introduction to Tango",
+    "description": "In this talk, we will cover the core technologies of Tango, some of its application and how it brings new opportunities for developers in different categories of applications.  We will end the talks with some cool live demos on a Tango device.",
     "language": "English",
 	"speakers": [
       7
