@@ -48,10 +48,10 @@
         "title": "Developer Advocate",
         "company": "Google",
         "companyLogo": "images/logos/google.svg",
-        "country": "Japan",
+        "country": "JAPAC",
         "photoUrl": "images/people/MaruMaruyama.jpg",
-        "shortBio": "Tentative",
-        "bio": "Tentative",
+        "shortBio": "Maru Maruyama is a solution architect, JAPAC....",
+        "bio": "Maru Maruyama is a solution architect, JAPAC. He is taking care of monthly GDE meeting as Maps expert in Japan. His current expertise is to boost up the Location based game like Pokemon GO for gaming developers. He has a YouTube channel to lecture the Maps APIs.  At the session, he will introduce about Maps APIs and usecase. Further, he will explain about recent approach for gaming industry and how to utilize Maps APIs for them.",
         "tags": [
             "Map"
         ],
