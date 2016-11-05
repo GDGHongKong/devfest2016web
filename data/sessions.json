@@ -2,20 +2,38 @@
    "9999": {
     "id": 9999
   },
-  "1303": {
-    "id": 1303,
+  "1304": {
+    "id": 1304,
     "title": "TBD",
     "description": "TBD",
+    "complexity": "Intermediate",
     "language": "English",
+	"tags": [
+      "AR and VR"
+    ]
+  },
+  "1303": {
+    "id": 1303,
+    "title": "VR Game Development with Unity & 3DMax",
+    "description": "A team of students of IVE (TY) will introduce the tools that they used to build a VR game - “Time of Wizard”.",
+   "complexity": "Intermediate",
+   "language": "Cantonese",
+	"speakers": [
+      8
+    ],
 	"tags": [
       "AR and VR"
     ]
   },
   "1302": {
     "id": 1302,
-    "title": "VR + Unity",
-    "description": "VR + Unity (TBD)",
-    "language": "Cantonese with English support",
+    "title": "Getting started with VR view for HTML",
+    "description": "This codelab will teach you how to embed 360 degree VR media into websites using VR View. This technology is designed for developers of traditional apps to enhance them with immersive content. For example, VR view makes it easy for a travel app to provide viewers with an underwater scuba diving tour as they plan vacation or for a home builder to take prospective buyers on virtual walkthrough before the home is built. VR View is available not only on web pages, but also for Android and iOS. There is a companion codelab to this one which introduces VR view in Android.",
+    "complexity": "Intermediate",
+    "language": "Cantonese or English",
+	"speakers": [
+      9,10
+    ],
 	"tags": [
       "AR and VR"
     ]
@@ -25,6 +43,7 @@
     "title": "An Introduction to Tango",
     "description": "In this talk, we will cover the core technologies of Tango, some of its application and how it brings new opportunities for developers in different categories of applications.  We will end the talks with some cool live demos on a Tango device.",
     "language": "English",
+    "complexity": "Beginner",
 	"speakers": [
       7
     ],
@@ -32,16 +51,43 @@
       "AR and VR"
     ]
   },
-  "1201": {
-    "id": 1201,
-    "title": "Google Cloud Platform - TBD",
-    "description": "Google Cloud Platform - TBD",
+  "1202": {
+    "id": 1202,
+    "title": "Hands on GKE",
+    "description": "Google Container Engine is relatively new product in the GCP family. You will know everything you need to know to start with.",
+    "complexity": "Intermediate",
     "language": "Cantonese with English support",
 	"speakers": [
       5
     ],
 	"tags": [
       "Cloud"
+    ]
+  },
+  "1201": {
+    "id": 1201,
+    "title": "Architecting a scalable ecommerce system",
+    "description": "E-commerce system may face sudden burst of load in some occasions. We will show you how GCP can solve this problem.",
+    "complexity": "Intermediate",
+    "language": "Cantonese with English support",
+	"speakers": [
+      5
+    ],
+	"tags": [
+      "Cloud"
+    ]
+  },
+  "1104": {
+    "id": 1104,
+    "title": "Getting the right place",
+    "description": "Many of the apps nowadays use different Google Maps APIs. Homing will discuss the considerations that should be made in leveraging the Maps API with examples of some widely used mobile apps.",
+    "speakers": [
+      9
+    ],
+    "language": "Cantonese or English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Web and Mobile"
     ]
   },
   "1103": {
@@ -67,13 +113,14 @@
     "language": "Cantonese",
     "complexity": "Intermediate",
     "tags": [
-      "Web and Mobile"
+      "Cloud"
     ]
   },
   "1101": {
     "id": 1101,
     "title": "I have a Web, I have an App, Boom, Progressive Web App",
     "description": "I have a Web, I have an App, Boom, Progressive Web App",
+    "complexity": "Intermediate",
     "language": "Cantonese",
     "speakers": [
       6
@@ -116,14 +163,14 @@
   },
    "1003": {
     "id": 1003,
-    "title": "Photo Taking + Lunch",
-    "description": "Foooooooood!",
+    "title": "Lunch Break",
+    "description": "Foooooooood! Eat around the CityU",
     "image": "images/backgrounds/lunch.jpg"
   },
   "1002": {
     "id": 1002,
-    "title": "Break",
-    "description": "Break!",
+    "title": "Photo Taking + Gift Distribution",
+    "description": "Photo Taking + Gift Distribution!",
     "image": "images/backgrounds/coffee-break.jpg"
   },
   "1001": {

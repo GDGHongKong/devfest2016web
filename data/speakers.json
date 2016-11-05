@@ -45,10 +45,10 @@
         "id": 2,
         "featured": true,
         "name": "Maru Maruyama",
-        "title": "Developer Advocate",
+        "title": "Solution Architect",
         "company": "Google",
         "companyLogo": "images/logos/google.svg",
-        "country": "JAPAC",
+        "country": "Japan",
         "photoUrl": "images/people/MaruMaruyama.jpg",
         "shortBio": "Maru Maruyama is a solution architect, JAPAC....",
         "bio": "Maru Maruyama is a solution architect, JAPAC. He is taking care of monthly GDE meeting as Maps expert in Japan. His current expertise is to boost up the Location based game like Pokemon GO for gaming developers. He has a YouTube channel to lecture the Maps APIs.  At the session, he will introduce about Maps APIs and usecase. Further, he will explain about recent approach for gaming industry and how to utilize Maps APIs for them.",
@@ -160,7 +160,7 @@
             }
         ]
     },
-	    "6": {
+	"6": {
         "id": 6,
         "featured": true,
         "name": "Fung Lam",
@@ -200,7 +200,7 @@
 		  }
         ]
     },
-	    "7": {
+	"7": {
         "id": 7,
         "featured": true,
         "name": "Tony Chan",
@@ -228,6 +228,91 @@
 			"link": "https://plus.google.com/+TonyHChan/",
 			"name": "Google+"
 		  }
+        ]
+    },
+	"8": {
+        "id": 8,
+        "featured": true,
+        "name": "John Lee & his team",
+        "title": "John Lee & his IVE(TY) team",
+        "company": "IVE(Tsing Yi)",
+        "companyLogo": "images/logos/ive.gif",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/ive.png",
+        "shortBio": "John and his team are students...",
+        "bio": "John and his team are students of the Higher Diploma in Game Software Development at the Institute of Vocational Education (Tsing Yi).",
+        "tags": [
+            "Game", "AR", "VR"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+
+        ]
+    },
+	"9": {
+        "id": 9,
+        "featured": true,
+        "name": "Homing Tam",
+        "title": "Google Developers Expert",
+        "company": "GDG Hong Kong",
+        "companyLogo": "images/logos/gdg-logo.svg",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/gdg_homing.jpg",
+        "shortBio": "Homing was recognized by Google as a member of GDE....",
+        "bio": "Homing was recognized by Google as a member of the Google Developers Experts (GDE) community focusing in Maps API. He gives speeches, workshops and works closely with the Google Maps team. His other focus includes Google Cloud Platform & Google Analytics.",
+        "tags": [
+            "Cloud", "Maps", "GDE"
+        ],
+        "badges": [
+			{
+                "name": "GDE",
+                "description": "Google Developers Experts",
+                "link": "https://developers.google.com/experts/people/homing-tam"
+            },
+            {
+                "name": "GDG",
+                "description": "Google Developer Group Hong Kong",
+                "link": "http://www.gdghk.org/"
+            }
+        ],
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+HomingTam",
+            "name": "Google+"
+          },
+          {
+            "icon": "website",
+            "link": "https://tamhoming.wordpress.com/",
+            "name": "Blog"
+          }
+        ]
+    },
+	"10": {
+        "id": 10,
+        "featured": true,
+        "name": "Troy Ye",
+        "title": "GIS Specialist",
+        "company": "Master Concept",
+        "companyLogo": "images/logos/hkmci.png",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/TroyYe.jpg",
+        "shortBio": "Troy is a GIS Specialist at Master Concept....",
+        "bio": "Troy is a GIS Specialist at Master Concept. He’s been working with Google Maps and 360 degree photos for some time. He also works on prototype application with the Project Tango Development Kit.",
+        "tags": [
+            "Cloud", "Maps"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/113109728622384496009",
+            "name": "Google+"
+          }
         ]
     }
 }
