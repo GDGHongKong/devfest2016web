@@ -30,7 +30,7 @@
     "title": "Getting started with VR view for HTML",
     "description": "This codelab will teach you how to embed 360 degree VR media into websites using VR View. This technology is designed for developers of traditional apps to enhance them with immersive content. For example, VR view makes it easy for a travel app to provide viewers with an underwater scuba diving tour as they plan vacation or for a home builder to take prospective buyers on virtual walkthrough before the home is built. VR View is available not only on web pages, but also for Android and iOS. There is a companion codelab to this one which introduces VR view in Android.",
     "complexity": "Intermediate",
-    "language": "Cantonese or English",
+    "language": "Cantonese + English",
 	"speakers": [
       9,10
     ],
@@ -56,9 +56,9 @@
     "title": "Hands on GKE",
     "description": "Google Container Engine is relatively new product in the GCP family. You will know everything you need to know to start with.",
     "complexity": "Intermediate",
-    "language": "Cantonese with English support",
+    "language": "Cantonese + English",
 	"speakers": [
-      5
+      11
     ],
 	"tags": [
       "Cloud"
@@ -69,7 +69,7 @@
     "title": "Architecting a scalable ecommerce system",
     "description": "E-commerce system may face sudden burst of load in some occasions. We will show you how GCP can solve this problem.",
     "complexity": "Intermediate",
-    "language": "Cantonese with English support",
+    "language": "Cantonese + English",
 	"speakers": [
       5
     ],
@@ -84,7 +84,7 @@
     "speakers": [
       9
     ],
-    "language": "Cantonese or English",
+    "language": "Cantonese + English",
     "complexity": "Intermediate",
     "tags": [
       "Web and Mobile"
@@ -138,7 +138,7 @@
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Map"
+      "Maps"
     ]
   },
   "1010": {

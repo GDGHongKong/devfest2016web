@@ -53,7 +53,7 @@
         "shortBio": "Maru Maruyama is a solution architect, JAPAC....",
         "bio": "Maru Maruyama is a solution architect, JAPAC. He is taking care of monthly GDE meeting as Maps expert in Japan. His current expertise is to boost up the Location based game like Pokemon GO for gaming developers. He has a YouTube channel to lecture the Maps APIs.  At the session, he will introduce about Maps APIs and usecase. Further, he will explain about recent approach for gaming industry and how to utilize Maps APIs for them.",
         "tags": [
-            "Map"
+            "Maps"
         ],
         "badges": [
 
@@ -133,15 +133,15 @@
     },
     "5": {
         "id": 5,
-        "featured": false,
-        "name": "GCPUGHK",
-        "title": "GCPUGHK",
-        "company": "GCPUGHK",
-        "companyLogo": "images/logos/GCPUGHK.png",
+        "featured": true,
+        "name": "Matchman",
+        "title": "Principal Engineer",
+        "company": "Red Soldier Limited",
+        "companyLogo": "images/logos/redso_logo.png",
         "country": "Hong Kong",
-        "photoUrl": "images/people/GCPUGHK.png",
-        "shortBio": "Google Cloud Platform Hong Kong User Group...",
-        "bio": "Google Cloud Platform Hong Kong User Group",
+        "photoUrl": "images/people/Matchman.jpg",
+        "shortBio": "As a principal engineer in Red Soldier Limited...",
+        "bio": "As a principal engineer in Red Soldier Limited, Matchman is focused on backend development.  With more than 10 years of experience, he has been taking different roles in SDLC and involved in the development of various products like Streaming and NAS Servers.",
         "tags": [
             "Cloud"
         ],
@@ -255,9 +255,9 @@
         "id": 9,
         "featured": true,
         "name": "Homing Tam",
-        "title": "Google Developers Expert",
-        "company": "GDG Hong Kong",
-        "companyLogo": "images/logos/gdg-logo.svg",
+        "title": "Google Developer Expert",
+        "company": "Google Developer Expert",
+        "companyLogo": "images/logos/google-developers-experts.png",
         "country": "Hong Kong",
         "photoUrl": "images/people/gdg_homing.jpg",
         "shortBio": "Homing was recognized by Google as a member of GDE....",
@@ -313,6 +313,35 @@
             "link": "https://plus.google.com/113109728622384496009",
             "name": "Google+"
           }
+        ]
+    },
+	"11": {
+        "id": 11,
+        "featured": true,
+        "name": "Edward Fung",
+        "title": "Senior Software Engineer",
+        "company": "Red Soldier Limited",
+        "companyLogo": "images/logos/redso_logo.png",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/Edward.jpg",
+        "shortBio": "Edward is a senior software engineer at Red Soldier Limited...",
+        "bio": "Edward is a senior software engineer at Red Soldier Limited. He is a full stack developer.  He passed the Google Cloud Platform Qualification exam and became one of the GCP experts in the company. He used to built applications on GAE and he is currently working on GKE.",
+        "tags": [
+            "Cloud"
+        ],
+        "badges": [
+            {
+                "name": "GCPUG",
+                "description": "Google Cloud Platform Hong Kong User Group",
+                "link": "http://www.gcpug.hk/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://www.gcpug.hk/"
+            }
         ]
     }
 }
