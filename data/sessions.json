@@ -4,10 +4,13 @@
   },
   "1304": {
     "id": 1304,
-    "title": "TBD",
-    "description": "TBD",
+    "title": "The things that changes our near future",
+    "description": "Share about Unity/AR/VR these three things that would bring the changes into our daily life on children education and Information Technology . The relationship among these three things and the predict of their future development.",
     "complexity": "Intermediate",
-    "language": "English",
+    "language": "Cantonese + English",
+	"speakers": [
+      12
+    ],
 	"tags": [
       "AR and VR"
     ]

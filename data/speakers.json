@@ -343,5 +343,30 @@
                 "link": "http://www.gcpug.hk/"
             }
         ]
+    },
+	"12": {
+        "id": 12,
+        "featured": true,
+        "name": "Kan Chan",
+        "title": "Consultant",
+        "company": "UFO School",
+        "companyLogo": "images/logos/UFO-Logo.png",
+        "country": "Hong Kong",
+        "photoUrl": "images/people/KanChan.jpg",
+        "shortBio": "Consultant and Teacher in UFO School...",
+        "bio": "Consultant and Teacher in UFO School. Region Leader of Unity User Group, CEO of ZCloud Co., Ltd. Focuses on Unity/AR/VR.",
+        "tags": [
+            "AR","VR","Unity"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://ufo.school/"
+            }
+        ]
     }
 }
