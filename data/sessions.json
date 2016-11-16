@@ -119,8 +119,8 @@
   "1101": {
     "id": 1101,
     "title": "I have a Web, I have an App, Boom, Progressive Web App",
-    "description": "I have a Web, I have an App, Boom, Progressive Web App",
-    "complexity": "Intermediate",
+    "description": "Progressive Web Apps is a new way to deliver amazing user experiences on the web. It is Reliable, Fast, and Engaging.<br/></br>In this session, Fung will give you a very brief introduction on PWA. No coding is involved.<br/><br/>Don’t come if you have attended #PWADevSummit.",
+    "complexity": "Beginner",
     "language": "Cantonese",
     "speakers": [
       6
