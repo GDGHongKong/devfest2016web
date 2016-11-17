@@ -105,8 +105,8 @@
   },
   "1102": {
     "id": 1102,
-    "title": "Use Google Prediction API to predict number of likes of Apple Daily news",
-    "description": "Use Google Prediction API to predict number of likes of Apple Daily news",
+    "title": "Prediction API: How popular my article will be?",
+    "description": "Kinni will share how to use Google Cloud Prediction API to build a Machine Learning model to predict the popularity (view count) of news article.",
     "speakers": [
       3
     ],
